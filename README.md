@@ -1,5 +1,5 @@
 # Hyper-Pyramid-Pooling-Resnet-Pytorch
-This repository include implementation of hyper pyramid pooling(HPP) mentioned in the paper **"Horizontal Pyramid Matching for Person Re-identification"** written by **Yang Fu1, Yunchao Wei1∗, Yuqian Zhou1, Honghui Shi1, Gao Huang3, Xinchao Wang4, Zhiqiang Yao5, Thomas Huang1**
+This repository include implementation of hyper pyramid pooling(HPP) mentioned in the paper **"Horizontal Pyramid Matching for Person Re-identification"** written by **Yang Fu, Yunchao Wei∗, Yuqian Zhou, Honghui Shi, Gao Huang, Xinchao Wang, Zhiqiang Yao, Thomas Huang**
 
 # Accuracy
 While training RESNET-50 was able to achieve a maximum of 96.569% accuracy on CIFAR-10 dataset after 40 Epochs. I believe this will produce better accuracy with further training because model was still converging. 
